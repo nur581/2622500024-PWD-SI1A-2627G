@@ -187,7 +187,7 @@ $pesan = $_SESSION['pesan'] ?? [];
             PWD <strong><?php print NAMA_MATA_KULIAH; ?></strong> pada tahun akademik <?php echo $tahunAkademik;
             ?>.</p>
             <!-- Gambar profil menggunakan folder img -->
-            <img src="c:\Users\User\Downloads\foto.jpg" alt="Foto Nur alizah">
+            <img src="img/photo.jpg" alt="Foto Nur alizah">
         </section>
 
         <section id="about">
